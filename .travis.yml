@@ -1,0 +1,15 @@
+language:python
+python:
+  - 3.4
+  - 2.7
+
+env:
+  - QA
+  - PROD
+
+script:
+  - mkdir shortstory
+  - touch kkk
+  - echo 5
+  
+ 
